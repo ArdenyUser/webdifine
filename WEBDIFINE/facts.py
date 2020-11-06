@@ -1,0 +1,11 @@
+print("----------")
+print("Information:")
+print("This software uses WEBDIFINE,")
+x = input("")
+print("which let's you access the web!")
+x = input("")
+print("We tweaked it to view the")
+x = input("")
+print("Dark Web.")
+x = input("")
+import core
